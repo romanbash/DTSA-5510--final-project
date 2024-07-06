@@ -1,0 +1,3 @@
+# DTSA-5510--final-project
+
+The main objective of this project is to classify Cyber-attacks by investigating HTTP traffic with anomaly detection techniques. Unlike many other projects and intrusion prevention systems that rely on rule-based or supervised learning algorithms, we focus on identifying and categorizing these attacks based on their unique patterns. In this project, we take the raw data as parsed PCAP and use unsupervised models and statistical anomaly detection techniques to classify cyber-attacks from benign data sessions. We will use the Isolation Forest algorithm, PCA, and TSNE for our investigation during the project.
